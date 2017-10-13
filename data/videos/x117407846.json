@@ -1,9 +1,9 @@
 {
     "title": "Lupita",
-    "description": "Here is an update for the tournament !",
+    "description": "uruguay",
     "referenceId": "oHQtV1aSXao",
     "date_created": "1392406858",
-    "date_modified": "1507938433",
+    "date_modified": "1507938597",
     "tags": "",
     "sourceId": "4",
     "status": "approved",
@@ -19,11 +19,9 @@
     "entityIdParent": "117407949",
     "titleTextEncoded": "Hernandez",
     "category": "",
-    "tvp_profiles": [
-        "14"
-    ],
+    "tvp_profiles": null,
     "tvp_profiles_manual": "",
-    "tvp_profiles_maxscore": 157.2047,
+    "tvp_profiles_maxscore": 0,
     "VIDEO_LENGTH": "SHORT",
     "duration": 155,
     "settings": "",
