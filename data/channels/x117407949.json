@@ -1,9 +1,9 @@
 {
     "title": "tere",
-    "description": null,
+    "description": "Esta es",
     "referenceId": null,
     "date_created": "1507932664",
-    "date_modified": "1507932664",
+    "date_modified": "1507935184",
     "tags": null,
     "sourceId": null,
     "status": "pending",
@@ -14,6 +14,10 @@
     "titleTextEncoded": "tere",
     "category": null,
     "duration": null,
-    "settings": "{\"canvasImage\":\"default_canvas3.jpg\",\"colorClass\":\"light\",\"canvasType\":\"gallery\"}",
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery"
+    },
     "transcripts": null
 }
