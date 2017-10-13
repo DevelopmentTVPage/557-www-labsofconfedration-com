@@ -3,7 +3,7 @@
     "description": "",
     "referenceId": null,
     "date_created": "1507931915",
-    "date_modified": "1507933365",
+    "date_modified": "1507934193",
     "tags": null,
     "sourceId": null,
     "status": "pending",
@@ -11,7 +11,7 @@
     "id": "117407948",
     "loginId": "1759035",
     "entityType": "3",
-    "titleTextEncoded": "channel-test",
+    "titleTextEncoded": "channel-test-name-change",
     "category": null,
     "duration": null,
     "settings": {
