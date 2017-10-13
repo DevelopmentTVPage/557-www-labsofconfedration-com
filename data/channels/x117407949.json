@@ -3,7 +3,7 @@
     "description": "Esta es",
     "referenceId": null,
     "date_created": "1507932664",
-    "date_modified": "1507936414",
+    "date_modified": "1507937395",
     "tags": null,
     "sourceId": null,
     "status": "pending",
@@ -18,7 +18,7 @@
         "canvasImage": "default_canvas3.jpg",
         "colorClass": "light",
         "canvasType": "gallery",
-        "__SMARTLIST__": "RE::add(\r\n RE::videos(\r\n  RE::condition()\r\n   ->lastNDays(30)\r\n   ->order('dateCreated')\r\n )\r\n);"
+        "__SMARTLIST__": ""
     },
     "transcripts": null
 }
