@@ -3,7 +3,7 @@
     "description": "Esta es",
     "referenceId": null,
     "date_created": "1507932664",
-    "date_modified": "1507937395",
+    "date_modified": "1507938872",
     "tags": null,
     "sourceId": null,
     "status": "pending",
@@ -15,10 +15,12 @@
     "category": null,
     "duration": null,
     "settings": {
-        "canvasImage": "default_canvas3.jpg",
+        "canvasImage": "713055724-0.png",
         "colorClass": "light",
-        "canvasType": "gallery",
-        "__SMARTLIST__": ""
+        "canvasType": "cropped",
+        "__SMARTLIST__": "",
+        "canvasCropped": "713055724-2073185166.png",
+        "canvasUrl": "\/\/sitecdn.tvpage.com\/dev\/users\/1759035\/canvas\/165\/93\/713055724-2073185166.png"
     },
     "transcripts": null
 }
